@@ -32,4 +32,3 @@ Le projet est principalement destiné à être présenté sur GitHub. Il n’est
 ---
 
 Réalisé par Noah
-
